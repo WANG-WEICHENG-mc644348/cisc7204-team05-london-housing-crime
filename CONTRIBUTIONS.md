@@ -7,7 +7,7 @@ cross-checked against the artefacts committed in this repository.
 
 ---
 
-## My contribution — WANG Weicheng (MC644348)
+## My contribution — WANG Weicheng
 
 **Roles:** Team reporter · Project analyst
 **Lead product:** Within-borough year-to-year changes and the change figure
