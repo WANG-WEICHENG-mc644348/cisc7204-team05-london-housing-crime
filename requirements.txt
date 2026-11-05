@@ -1,0 +1,7 @@
+# Core dependencies for the analysis pipeline (src/build_analysis.py, src/make_figures.py)
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+
+# Optional: to open analysis.ipynb locally
+# jupyterlab>=4.0
